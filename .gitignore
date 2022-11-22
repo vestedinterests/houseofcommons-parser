@@ -14,3 +14,5 @@ htmlcov
 speeches.jsonl
 data/speeches/*
 debug.ipynb
+
+.venv
